@@ -5,7 +5,7 @@
       Exchange Rate Converter for Fiat and Crypto currencies.
       The purpose – Frontend test assignment for Opeepl Company.
       
-      Hosting URL: https://exchange-rate-43d0f.web.app
+      Hosting URL: (https://exchange-rate-43d0f.web.app)
 
 ## 2.	TECHONOLOGY USED 
       
