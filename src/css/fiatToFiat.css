@@ -1,0 +1,27 @@
+
+h1 {
+  color:white;
+  margin-bottom: 40px;
+}
+h2,h3{
+  color:white;
+}
+#output {
+  display: inline-grid;
+  width: 60%;
+  padding-left: 10px;
+}
+#options {
+  display: inline-grid;
+  row-gap: 10px;
+  margin-left: 20px;
+  width: 30%;
+}
+.btn-options {
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 20px;
+  font-weight: bold;
+  height: 30px;
+  padding: 0px 5px;
+}

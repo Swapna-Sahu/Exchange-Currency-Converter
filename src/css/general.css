@@ -1,0 +1,42 @@
+.input-width {
+  margin-left: 10px;
+  width: 120px;
+  height: 25px;
+  background-color: white;
+  padding-left: 10px;
+}
+.submit-btn {
+  height: 2.5rem;
+  font-size: 17px;
+  background-color: #82b440;
+  font-weight: bold;
+  color: #200dbb;
+  border-radius: 20px;
+  padding: 0px 20px;
+  text-align: center;
+}
+.exchange-rate {
+  background-color: teal;
+  padding: 20px;
+}
+.calculated-amount {
+  font-size: 35px;
+  color: yellow;
+  margin-top: 20px;
+}
+
+.btn-style {
+  font-size: 20px;
+  text-decoration: none;
+  padding: 15px;
+  color: white;
+}
+.btn-home {
+    float: right;
+    background-color: #82b440;
+    border-radius: 35px;
+  }
+
+  label{
+    color:white;
+  }
